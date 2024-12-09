@@ -1,2 +1,2 @@
 # CEnextGen_challenge
-Challenge part MQTT
+Part IoT Session MQTT
